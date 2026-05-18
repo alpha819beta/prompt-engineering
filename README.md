@@ -207,8 +207,7 @@ The Fibonacci spiral should start with the first few Fibonacci numbers and visua
 
 <div align="left">
 
-## License
-This project is licensed under the terms of the [apache-2.0 License](LICENSE).
+The End
 
 ---
 
